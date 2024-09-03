@@ -1,0 +1,29 @@
+{
+  "name": "jollyrpgminecraft",
+  "version": "1.0.0",
+  "description": "A collection of RPG focused Minecraft datapacks intended to be mix and matched to create an RPG experience",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node compile.mjs",
+    "copy-packs": "node copy-packs.mjs",
+    "lint": "semistandard",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JollyChristopher/JollyRPGMinecraft.git"
+  },
+  "author": "jollychristopher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JollyChristopher/JollyRPGMinecraft/issues"
+  },
+  "homepage": "https://github.com/JollyChristopher/JollyRPGMinecraft#readme",
+  "devDependencies": {
+    "semistandard": "^17.0.0"
+  },
+  "dependencies": {
+    "zip-a-folder": "^3.1.7"
+  }
+}

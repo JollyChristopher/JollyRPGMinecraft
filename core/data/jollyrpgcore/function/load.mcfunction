@@ -1,0 +1,1 @@
+say JollyRPG Core loaded
