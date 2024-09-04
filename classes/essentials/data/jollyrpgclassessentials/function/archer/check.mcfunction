@@ -1,0 +1,1 @@
+execute if entity @s[advancements={jollyrpgclassessentials:archer=true}] run return 1

@@ -1,0 +1,1 @@
+execute as @a[scores={jollyrpg-alchemist=1..}] run function jollyrpgclassessentials:alchemist/assigned
