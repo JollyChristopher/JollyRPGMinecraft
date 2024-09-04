@@ -1,1 +1,1 @@
-say JollyRPG Core loaded
+function #jollyrpgcore:init
