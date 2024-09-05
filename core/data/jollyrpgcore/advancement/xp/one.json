@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "hurt": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "blocked": false,
+          "taken": {
+            "max": 50,
+            "min": 1
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    ["hurt"]
+  ],
+  "rewards": {
+    "function": "jollyrpgcore:xp/one"
+  }
+}
