@@ -1,0 +1,1 @@
+attribute @s generic.attack_damage modifier remove jollyrpg:knight_strength_1

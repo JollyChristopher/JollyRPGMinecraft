@@ -1,3 +1,2 @@
 scoreboard players enable @s jollyrpg-knight
-# todo: cool knight color
-tellraw @s [{"text": "[Knight]", "clickEvent": {"action": "run_command", "value": "/trigger jollyrpg-knight"}}]
+tellraw @s [{"text": "[Knight]", "color": "gray", "hoverEvent": {"action": "show_text", "value": "Knights specialize with Swords and Shields.\nGain 4 HP\nHeavy Armor: Gain 1 HP"}, "clickEvent": {"action": "run_command", "value": "/trigger jollyrpg-knight"}}]
