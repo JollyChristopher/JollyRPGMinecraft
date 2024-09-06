@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Strength 2",
+    "description": "Gain 1 Strength",
+    "frame": "task",
+    "icon": {
+      "id": "minecraft:iron_sword"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jollyrpgclassessentials:knight/strength_1",
+  "criteria": {
+    "base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

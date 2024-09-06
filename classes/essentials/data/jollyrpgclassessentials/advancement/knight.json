@@ -1,4 +1,16 @@
 {
+  "display": {
+    "title": "Class: Knight      ",
+    "description": "Knights specialize with Swords and Shields.\nGain 4 HP\nHeavy Armor: Gain 1 HP",
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:iron_sword"
+    },
+    "background": "minecraft:textures/block/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
   "criteria": {
     "base": {
       "trigger": "minecraft:impossible"

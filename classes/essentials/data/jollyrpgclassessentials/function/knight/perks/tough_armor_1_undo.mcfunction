@@ -1,0 +1,1 @@
+attribute @s generic.armor_toughness modifier remove jollyrpg:knight_tough_armor_1

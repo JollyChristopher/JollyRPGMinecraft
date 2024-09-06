@@ -1,2 +1,2 @@
 function jollyrpgclasscore:classmenucleanup
-advancement grant @s from jollyrpgclassessentials:alchemist
+advancement grant @s only jollyrpgclassessentials:alchemist

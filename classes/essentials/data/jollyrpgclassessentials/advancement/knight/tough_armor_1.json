@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Tough Armor 1",
+    "description": "Gain 1 Armor Toughness",
+    "frame": "task",
+    "icon": {
+      "id": "minecraft:leather_chestplate"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jollyrpgclassessentials:knight",
+  "criteria": {
+    "base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
