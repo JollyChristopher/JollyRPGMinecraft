@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Knockback 1",
+    "description": "Attacks knockback enemies by 1/4 blocks.\nMedium Armor: increase Knockback by 1/8 blocks",
+    "frame": "task",
+    "icon": {
+      "id": "minecraft:wind_charge"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jollyrpgclassessentials:archer",
+  "criteria": {
+    "base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

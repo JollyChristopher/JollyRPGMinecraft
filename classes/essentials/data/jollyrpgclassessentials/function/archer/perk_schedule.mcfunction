@@ -1,0 +1,17 @@
+execute as @a[advancements={jollyrpgclassessentials:archer=true}] run function jollyrpgclassessentials:archer/perks/root
+execute as @a[advancements={jollyrpgclassessentials:archer=false}] run function jollyrpgclassessentials:archer/perks/root_undo
+execute as @a[scores={jollyrpg-archer-perk-fall-break-1=1..}] run function jollyrpgclassessentials:archer/perks/fall_break_1_choose
+execute as @a[advancements={jollyrpgclassessentials:archer/fall_break_1=true}] run function jollyrpgclassessentials:archer/perks/fall_break_1
+execute as @a[advancements={jollyrpgclassessentials:archer/fall_break_1=false}] run function jollyrpgclassessentials:archer/perks/fall_break_1_undo
+execute as @a[scores={jollyrpg-archer-perk-fall-break-2=1..}] run function jollyrpgclassessentials:archer/perks/fall_break_2_choose
+execute as @a[advancements={jollyrpgclassessentials:archer/fall_break_2=true}] run function jollyrpgclassessentials:archer/perks/fall_break_2
+execute as @a[advancements={jollyrpgclassessentials:archer/fall_break_2=false}] run function jollyrpgclassessentials:archer/perks/fall_break_2_undo
+execute as @a[scores={jollyrpg-archer-perk-knockback-1=1..}] run function jollyrpgclassessentials:archer/perks/knockback_1_choose
+execute as @a[advancements={jollyrpgclassessentials:archer/knockback_1=true}] run function jollyrpgclassessentials:archer/perks/knockback_1
+execute as @a[advancements={jollyrpgclassessentials:archer/knockback_1=false}] run function jollyrpgclassessentials:archer/perks/knockback_1_undo
+execute as @a[scores={jollyrpg-archer-perk-knockback-2=1..}] run function jollyrpgclassessentials:archer/perks/knockback_2_choose
+execute as @a[advancements={jollyrpgclassessentials:archer/knockback_2=true}] run function jollyrpgclassessentials:archer/perks/knockback_2
+execute as @a[advancements={jollyrpgclassessentials:archer/knockback_2=false}] run function jollyrpgclassessentials:archer/perks/knockback_2_undo
+execute as @a[scores={jollyrpg-archer-perk-health-1=1..}] run function jollyrpgclassessentials:archer/perks/health_1_choose
+execute as @a[advancements={jollyrpgclassessentials:archer/health_1=true}] run function jollyrpgclassessentials:archer/perks/health_1
+execute as @a[advancements={jollyrpgclassessentials:archer/health_1=false}] run function jollyrpgclassessentials:archer/perks/health_1_undo

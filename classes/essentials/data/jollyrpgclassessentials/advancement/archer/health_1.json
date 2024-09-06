@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Health 1           ",
+    "description": "Gain 2 HP\nMedium Armor: Gain 1 HP",
+    "frame": "task",
+    "icon": {
+      "id": "minecraft:red_dye"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jollyrpgclassessentials:archer",
+  "criteria": {
+    "base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

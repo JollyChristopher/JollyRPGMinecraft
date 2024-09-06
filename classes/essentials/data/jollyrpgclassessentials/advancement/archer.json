@@ -1,4 +1,16 @@
 {
+  "display": {
+    "title": "Class: Archer      ",
+    "description": "Archers draw bows to shoot at their enemies.\nGain 5% Move Speed\nMedium Armor: Gain 5% Move Speed\nMedium Armor: Gain 1 HP",
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:bow"
+    },
+    "background": "minecraft:textures/block/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
   "criteria": {
     "base": {
       "trigger": "minecraft:impossible"

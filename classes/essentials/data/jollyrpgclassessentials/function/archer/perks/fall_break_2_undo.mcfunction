@@ -1,0 +1,1 @@
+attribute @s generic.safe_fall_distance modifier remove jollyrpg:archer_fall_break_2

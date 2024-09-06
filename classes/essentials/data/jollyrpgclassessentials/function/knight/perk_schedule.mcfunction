@@ -1,5 +1,5 @@
-execute as @a[advancements={jollyrpgclassessentials:knight=true}] run function jollyrpgclassessentials:knight/perks/knight_root
-execute as @a[advancements={jollyrpgclassessentials:knight=false}] run function jollyrpgclassessentials:knight/perks/knight_root_undo
+execute as @a[advancements={jollyrpgclassessentials:knight=true}] run function jollyrpgclassessentials:knight/perks/root
+execute as @a[advancements={jollyrpgclassessentials:knight=false}] run function jollyrpgclassessentials:knight/perks/root_undo
 execute as @a[scores={jollyrpg-knight-perk-strength-1=1..}] run function jollyrpgclassessentials:knight/perks/strength_1_choose
 execute as @a[advancements={jollyrpgclassessentials:knight/strength_1=true}] run function jollyrpgclassessentials:knight/perks/strength_1
 execute as @a[advancements={jollyrpgclassessentials:knight/strength_1=false}] run function jollyrpgclassessentials:knight/perks/strength_1_undo

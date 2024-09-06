@@ -1,3 +1,2 @@
 scoreboard players enable @s jollyrpg-archer
-# todo: cool knight color
-tellraw @s [{"text": "[Archer]", "clickEvent": {"action": "run_command", "value": "/trigger jollyrpg-archer"}}]
+tellraw @s [{"text": "[Archer]", "color": "dark_green", "hoverEvent": {"action": "show_text", "value": "Archers draw bows to shoot at their enemies.\nGain 5% Move Speed\nMedium Armor: Gain 5% Move Speed\nMedium Armor: Gain 1 HP"}, "clickEvent": {"action": "run_command", "value": "/trigger jollyrpg-archer"}}]
