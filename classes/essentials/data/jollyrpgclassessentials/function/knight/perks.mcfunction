@@ -1,1 +1,1 @@
-execute if entity @s[advancements={jollyrpgclassessentials:knight=true}] run function jollyrpgclassessentials:knight/knight_perks
+execute if entity @s[advancements={jollyrpgclassessentials:knight=true}] run function jollyrpgclassessentials:knight/list_perks

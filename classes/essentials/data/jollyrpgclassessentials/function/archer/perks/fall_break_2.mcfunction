@@ -1,0 +1,1 @@
+attribute @s generic.safe_fall_distance modifier add jollyrpg:archer_fall_break_2 1 add_value

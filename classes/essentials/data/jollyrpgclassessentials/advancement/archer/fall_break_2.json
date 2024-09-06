@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Fall Break 2",
+    "description": "Can fall from 1 block higher",
+    "frame": "task",
+    "icon": {
+      "id": "minecraft:hay_block"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jollyrpgclassessentials:archer/fall_break_1",
+  "criteria": {
+    "base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
