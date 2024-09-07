@@ -1,0 +1,1 @@
+execute if entity @s[advancements={jollyrpgclassessentials:alchemist=true}] run function jollyrpgclassessentials:alchemist/list_perks

@@ -1,4 +1,16 @@
 {
+  "display": {
+    "title": "Class: Alchemist      ",
+    "description": "Alchemists throw potions to benefit allies and hinder enemies.\nLight/No Armor: Gain 3 HP",
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:splash_potion"
+    },
+    "background": "minecraft:textures/block/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
   "criteria": {
     "base": {
       "trigger": "minecraft:impossible"

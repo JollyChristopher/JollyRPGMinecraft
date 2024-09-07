@@ -1,0 +1,1 @@
+return run function jollyrpgcore:armor_check {part: "legs", type: "medium"}

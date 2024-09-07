@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Reduced Gravity 1",
+    "description": "Reduce Gravity by 1",
+    "frame": "task",
+    "icon": {
+      "id": "minecraft:feather"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jollyrpgclassessentials:alchemist",
+  "criteria": {
+    "base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

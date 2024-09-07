@@ -1,0 +1,1 @@
+return run function jollyrpgcore:armor_check {part: "head", type: "heavy"}

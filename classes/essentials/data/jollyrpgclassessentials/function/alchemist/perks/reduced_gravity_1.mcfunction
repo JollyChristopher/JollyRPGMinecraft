@@ -1,0 +1,1 @@
+attribute @s generic.gravity modifier add jollyrpg:alchemist_reduced_gravity_1 -0.01 add_value

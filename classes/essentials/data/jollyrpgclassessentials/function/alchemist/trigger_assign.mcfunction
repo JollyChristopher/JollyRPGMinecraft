@@ -1,3 +1,2 @@
 scoreboard players enable @s jollyrpg-alchemist
-# todo: cool knight color
-tellraw @s [{"text": "[Alchemist]", "clickEvent": {"action": "run_command", "value": "/trigger jollyrpg-alchemist"}}]
+tellraw @s [{"text": "[Alchemist]", "color": "light_purple", "hoverEvent": {"action": "show_text", "value": "Alchemists throw potions to benefit allies and hinder enemies.\nLight/No Armor: Gain 3 HP"}, "clickEvent": {"action": "run_command", "value": "/trigger jollyrpg-alchemist"}}]
