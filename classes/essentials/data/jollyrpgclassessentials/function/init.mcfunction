@@ -1,3 +1,4 @@
+# todo: these triggers should be class specific
 scoreboard objectives add jollyrpg-alchemist trigger
 scoreboard objectives add jollyrpg-archer trigger
 scoreboard objectives add jollyrpg-knight trigger
@@ -11,5 +12,10 @@ scoreboard objectives add jollyrpg-archer-perk-fall-break-2 trigger
 scoreboard objectives add jollyrpg-archer-perk-knockback-1 trigger
 scoreboard objectives add jollyrpg-archer-perk-knockback-2 trigger
 scoreboard objectives add jollyrpg-archer-perk-health-1 trigger
+scoreboard objectives add jollyrpg-alchemist-perk-tough-skin-1 trigger
+scoreboard objectives add jollyrpg-alchemist-perk-tough-skin-2 trigger
+scoreboard objectives add jollyrpg-alchemist-perk-reduced-gravity-1 trigger
+scoreboard objectives add jollyrpg-alchemist-perk-reduced-gravity-2 trigger
+scoreboard objectives add jollyrpg-alchemist-perk-health-1 trigger
 
 say JollyRPG Classes Essentials loaded

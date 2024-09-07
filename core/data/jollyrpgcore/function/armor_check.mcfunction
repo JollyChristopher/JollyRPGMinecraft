@@ -1,0 +1,1 @@
+$execute if items entity @s armor.$(part) #jollyrpgcore:$(type)_armor run return 1

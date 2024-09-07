@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Tough Skin 2           ",
+    "description": "Light/No Armor: Gain 2 Armor",
+    "frame": "task",
+    "icon": {
+      "id": "minecraft:iron_chestplate"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jollyrpgclassessentials:alchemist/tough_skin_1",
+  "criteria": {
+    "base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

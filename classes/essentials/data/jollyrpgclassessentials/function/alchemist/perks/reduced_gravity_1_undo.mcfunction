@@ -1,0 +1,1 @@
+attribute @s generic.gravity modifier remove jollyrpg:alchemist_reduced_gravity_1
